@@ -16,7 +16,7 @@ let info = [
 
 let labelAno = "Ano:";
 let labelSalarioMinimo = "Salario Mínimo:";
-let labelIpca = "Inflação IPCA:";
+let labelIpca = "Inflação do IPCA:";
 let labelCrescimento = "Crescimento Salarial:";
 
 console.log("***APLICAÇÃO SALÁRIO X INFLAÇÃO***");
