@@ -84,7 +84,7 @@ do {
             break;
 
         case 4:
-            console.log("Você escolheu sair, o programa será encerrado.\n");
+            console.log("O programa será encerrado. Obrigado!\n");
             break;
 
         default:
