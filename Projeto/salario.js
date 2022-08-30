@@ -26,7 +26,7 @@ do {
     console.log("1 - Trazer uma lista de salários mínimos de 2010 à 2020");
     console.log("2 - Trazer uma lista do índice IPCA de 2010 à 2020");
     console.log("3 - Trazer um comparativo entre o percentual de aumento salarial e IPCA.");
-    console.log("4 - Fechar o programa.");
+    console.log("4 - Encerrar o programa.");
 
     var opcao = read.question("Digite aqui sua escolha: ");
 
